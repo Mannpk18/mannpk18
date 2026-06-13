@@ -29,7 +29,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🎥 [**AI YouTube Q&A Tool**](https://github.com/mannpk18) | RAG-powered tool that summarizes YouTube videos and answers questions about their content | `Python` `LangChain` `Gradio` `IBM WatsonX` |
+| 🎥 [**AI YouTube Q&A Tool**]([https://github.com/mannpk18](https://github.com/Mannpk18/video-rag-system)) | RAG-powered tool that summarizes YouTube videos and answers questions about their content | `Python` `LangChain` `Gradio` `IBM WatsonX` |
 | 📊 [**Product Roadmap Dashboard**](https://github.com/mannpk18) | Interactive feature prioritization dashboard with RICE/WSJF-inspired scoring across 17 features and 4 quarters | `React` `JavaScript` `Figma` |
 | 🖥️ [**Production Monitoring & Log Analysis Toolkit**](https://github.com/mannpk18) | Automated log parsing, anomaly detection, and alerting toolkit for production support workflows | `Python` `Bash` `SQLite` |
 | 🏠 [**McMaster Student Housing Portal**](https://github.com/mannpk18) | Web portal concept helping students find and compare off-campus housing | `HTML` `CSS` `JavaScript` |
